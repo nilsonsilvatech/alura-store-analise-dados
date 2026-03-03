@@ -10,18 +10,25 @@ O objetivo deste projeto é analisar os dados de vendas e desempenho das lojas p
 Métricas Analisadas
 
 Faturamento total por loja
+
 Categorias mais vendidas
+
 Média de avaliação dos clientes
+
 Produtos mais e menos vendidos
+
 Custo médio de frete
 
 
 Tecnologias Utilizadas
 
 Python
+
 Pandas
+
 Matplotlib
 Google Colab
+
 
 
 Objetivo da Análise
