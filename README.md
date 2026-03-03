@@ -7,6 +7,7 @@ O Sr. João possui quatro lojas da rede Alura Store e deseja vender uma delas pa
 O objetivo deste projeto é analisar os dados de vendas e desempenho das lojas para identificar qual apresenta menor eficiência e, com base em dados, recomendar qual deve ser vendida.
 
 
+
 Métricas Analisadas
 
 Faturamento total por loja
@@ -20,6 +21,7 @@ Produtos mais e menos vendidos
 Custo médio de frete
 
 
+
 Tecnologias Utilizadas
 
 Python
@@ -27,7 +29,9 @@ Python
 Pandas
 
 Matplotlib
+
 Google Colab
+
 
 
 
